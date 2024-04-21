@@ -1,0 +1,64 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    font-size: 48pt;
+    text-align: center;
+    text-decoration: underline;
+}
+.intro{
+    text-align: left;
+    padding-left: 100px;
+    font-size: 20pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 100px;
+}
+
+.intropic{
+    float: right;
+    border: 5px black dashed;
+    
+}
+
+.list{
+    padding-left: 100px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contactinfo{
+    font-size: 32pt;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.phonenumber{
+    font-size: 25px;
+    text-align: center;
+    padding-left: 100px;
+    display: inline-block;
+}
+.space{
+margin-left: 120pt;
+}
+.video{
+    padding-top: 100px;
+    font-size: 32pt;
+    text-align: center; 
+    font-family: cursive;
+    color: rgb(5, 73, 5);
+    padding-bottom: 75px
+}
+
+.dwf{
+    font-size: 25pt;
+    padding-top: 75px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: black;
+
+}
+.end{
+    font-size: 25pt;
+    text-align: center;
+}
+
